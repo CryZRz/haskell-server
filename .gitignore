@@ -1,0 +1,6 @@
+dist-newstyle/
+*.o
+*.hi
+__pycache__/
+app/index.py
+clientes/
